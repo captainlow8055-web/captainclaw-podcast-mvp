@@ -20,6 +20,22 @@
       <itunes:email>private@example.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>003 — Go-Around Decision Discipline: Landing Is Optional</title>
+      <description>Morning aviation program episode on go-around decision discipline, stabilised approach judgement, and why an early go-around is a professional safety decision rather than a failed landing.</description>
+      <guid isPermaLink="false">captainclaw-003-go-around-decision-discipline</guid>
+      <pubDate>Fri, 13 Mar 2026 03:19:00 +0800</pubDate>
+      <enclosure url="https://captainlow8055-web.github.io/captainclaw-podcast-mvp/003-go-around-decision-discipline.mp3" length="16480397" type="audio/mpeg"/>
+      <itunes:duration>00:21:34</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded><![CDATA[
+        <p><strong>Topic:</strong> Go-Around Decision Discipline</p>
+        <p><strong>Focus:</strong> Decide early, fly positively, and do not force the landing to happen.</p>
+        <p><strong>Operational takeaway:</strong> If the approach is no longer becoming simpler and more stable, go around before the situation becomes expensive.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
       <title>002 — Stabilized Approach: Build the Gate Before Short Final</title>
       <description>Second MVP test episode for feed update validation. Published on the same GitHub Pages feed to verify that Apple Podcasts detects a new episode item in the existing show.</description>
       <guid isPermaLink="false">captainclaw-002-stabilized-approach</guid>
