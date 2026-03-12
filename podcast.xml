@@ -20,6 +20,22 @@
       <itunes:email>private@example.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>002 — Stabilized Approach: Build the Gate Before Short Final</title>
+      <description>Second MVP test episode for feed update validation. Published on the same GitHub Pages feed to verify that Apple Podcasts detects a new episode item in the existing show.</description>
+      <guid isPermaLink="false">captainclaw-002-stabilized-approach</guid>
+      <pubDate>Thu, 12 Mar 2026 11:50:00 +0800</pubDate>
+      <enclosure url="https://captainlow8055-web.github.io/captainclaw-podcast-mvp/002-stabilized-approach.mp3" length="9549909" type="audio/mpeg"/>
+      <itunes:duration>00:04:56</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded><![CDATA[
+        <p><strong>Topic:</strong> Stabilized Approach</p>
+        <p><strong>Purpose:</strong> Feed update validation on the same show</p>
+        <p><strong>Note:</strong> This is the second MVP test item on the same GitHub Pages podcast feed.</p>
+      ]]></content:encoded>
+    </item>
+    <item>
       <title>001 — EFATO: The First Seconds That Matter</title>
       <description>NotebookLM-generated pilot/instructor morning audio draft focused on EFATO (Engine Failure After Take-Off), adapted as the first private episode prototype.</description>
       <guid isPermaLink="false">captainclaw-001-efato</guid>
