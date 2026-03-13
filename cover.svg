@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3000" height="3000" viewBox="0 0 3000 3000">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#102236"/>
+      <stop offset="100%" stop-color="#204c78"/>
+    </linearGradient>
+  </defs>
+  <rect width="3000" height="3000" fill="url(#bg)"/>
+  <rect x="180" y="180" width="2640" height="2640" rx="120" fill="#1b2d44"/>
+  <rect x="260" y="260" width="2480" height="2480" rx="100" fill="#142233"/>
+  <text x="1500" y="650" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="150" font-weight="700" fill="#eef5ff">CaptainClaw</text>
+  <text x="1500" y="1080" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="250" font-weight="800" fill="#ffc85a">AVIATION</text>
+  <text x="1500" y="1360" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="250" font-weight="800" fill="#ffc85a">MORNING</text>
+  <text x="1500" y="1640" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="250" font-weight="800" fill="#ffc85a">PROGRAM</text>
+  <text x="1500" y="2180" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="82" fill="#e5edf7">中文主讲 · English terminology retained</text>
+  <text x="1500" y="2310" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="76" fill="#a9bbcf">Single-topic | practical | instructor-style</text>
+</svg>
