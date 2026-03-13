@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>CaptainClaw Aviation Morning Program</title>
     <link>https://captainlow8055-web.github.io/captainclaw-podcast-mvp/</link>
@@ -11,61 +9,65 @@
     <itunes:summary>Private aviation morning audio for 教官. Single-topic, practical, source-driven, and designed to maintain aviation knowledge and instructional sharpness.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <itunes:category text="Education"/>
+    <itunes:category text="Education" />
     <itunes:category text="Leisure">
-      <itunes:category text="Aviation"/>
+      <itunes:category text="Aviation" />
     </itunes:category>
     <itunes:owner>
       <itunes:name>CaptainClaw</itunes:name>
       <itunes:email>private@example.com</itunes:email>
     </itunes:owner>
-    <item>
+    <item><title>004 — Time and Track Discipline: Stay Ahead in VFR Navigation</title><description>Morning aviation program episode on time and track check discipline in VFR navigation, how to stay ahead of the aircraft, and why small early corrections reduce workload.</description><guid isPermaLink="false">captainclaw-004-time-and-track-discipline</guid><pubDate>Sat, 14 Mar 2026 03:05:00 +0800</pubDate><enclosure url="https://captainlow8055-web.github.io/captainclaw-podcast-mvp/004-time-and-track-discipline.mp3" length="2425297" type="audio/mpeg" /><itunes:duration>00:06:12</itunes:duration><itunes:episode>4</itunes:episode><itunes:episodeType>full</itunes:episodeType><itunes:explicit>false</itunes:explicit><content:encoded>&lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Topic:&lt;/strong&gt; Time and Track Discipline&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Focus:&lt;/strong&gt; Stay ahead of the aircraft with disciplined time and track checks, early awareness, and small corrections.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Operational takeaway:&lt;/strong&gt; Late correction creates workload; early awareness protects simplicity in VFR navigation.&lt;/p&gt;
+      ]]&gt;</content:encoded></item><item>
       <title>003 — Go-Around Decision Discipline: Landing Is Optional</title>
       <description>Morning aviation program episode on go-around decision discipline, stabilised approach judgement, and why an early go-around is a professional safety decision rather than a failed landing.</description>
       <guid isPermaLink="false">captainclaw-003-go-around-decision-discipline</guid>
       <pubDate>Fri, 13 Mar 2026 03:19:00 +0800</pubDate>
-      <enclosure url="https://captainlow8055-web.github.io/captainclaw-podcast-mvp/003-go-around-decision-discipline.mp3" length="16480397" type="audio/mpeg"/>
+      <enclosure url="https://captainlow8055-web.github.io/captainclaw-podcast-mvp/003-go-around-decision-discipline.mp3" length="16480397" type="audio/mpeg" />
       <itunes:duration>00:21:34</itunes:duration>
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <content:encoded><![CDATA[
-        <p><strong>Topic:</strong> Go-Around Decision Discipline</p>
-        <p><strong>Focus:</strong> Decide early, fly positively, and do not force the landing to happen.</p>
-        <p><strong>Operational takeaway:</strong> If the approach is no longer becoming simpler and more stable, go around before the situation becomes expensive.</p>
-      ]]></content:encoded>
+      <content:encoded>
+        &lt;p&gt;&lt;strong&gt;Topic:&lt;/strong&gt; Go-Around Decision Discipline&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Focus:&lt;/strong&gt; Decide early, fly positively, and do not force the landing to happen.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Operational takeaway:&lt;/strong&gt; If the approach is no longer becoming simpler and more stable, go around before the situation becomes expensive.&lt;/p&gt;
+      </content:encoded>
     </item>
     <item>
       <title>002 — Stabilized Approach: Build the Gate Before Short Final</title>
       <description>Second MVP test episode for feed update validation. Published on the same GitHub Pages feed to verify that Apple Podcasts detects a new episode item in the existing show.</description>
       <guid isPermaLink="false">captainclaw-002-stabilized-approach</guid>
       <pubDate>Thu, 12 Mar 2026 11:50:00 +0800</pubDate>
-      <enclosure url="https://captainlow8055-web.github.io/captainclaw-podcast-mvp/002-stabilized-approach.mp3" length="9549909" type="audio/mpeg"/>
+      <enclosure url="https://captainlow8055-web.github.io/captainclaw-podcast-mvp/002-stabilized-approach.mp3" length="9549909" type="audio/mpeg" />
       <itunes:duration>00:04:56</itunes:duration>
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <content:encoded><![CDATA[
-        <p><strong>Topic:</strong> Stabilized Approach</p>
-        <p><strong>Purpose:</strong> Feed update validation on the same show</p>
-        <p><strong>Note:</strong> This is the second MVP test item on the same GitHub Pages podcast feed.</p>
-      ]]></content:encoded>
+      <content:encoded>
+        &lt;p&gt;&lt;strong&gt;Topic:&lt;/strong&gt; Stabilized Approach&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Feed update validation on the same show&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This is the second MVP test item on the same GitHub Pages podcast feed.&lt;/p&gt;
+      </content:encoded>
     </item>
     <item>
       <title>001 — EFATO: The First Seconds That Matter</title>
       <description>NotebookLM-generated pilot/instructor morning audio draft focused on EFATO (Engine Failure After Take-Off), adapted as the first private episode prototype.</description>
       <guid isPermaLink="false">captainclaw-001-efato</guid>
       <pubDate>Wed, 11 Mar 2026 07:12:00 +0800</pubDate>
-      <enclosure url="https://captainlow8055-web.github.io/captainclaw-podcast-mvp/001-efato.mp3" length="9549909" type="audio/mpeg"/>
+      <enclosure url="https://captainlow8055-web.github.io/captainclaw-podcast-mvp/001-efato.mp3" length="9549909" type="audio/mpeg" />
       <itunes:duration>00:04:56</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <content:encoded><![CDATA[
-        <p><strong>Topic:</strong> EFATO — Engine Failure After Take-Off</p>
-        <p><strong>Format:</strong> Morning aviation program prototype</p>
-        <p><strong>Language:</strong> Chinese-led with English aviation terminology</p>
-      ]]></content:encoded>
+      <content:encoded>
+        &lt;p&gt;&lt;strong&gt;Topic:&lt;/strong&gt; EFATO — Engine Failure After Take-Off&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Format:&lt;/strong&gt; Morning aviation program prototype&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Language:&lt;/strong&gt; Chinese-led with English aviation terminology&lt;/p&gt;
+      </content:encoded>
     </item>
   </channel>
 </rss>
