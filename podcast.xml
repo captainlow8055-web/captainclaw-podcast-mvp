@@ -23,6 +23,22 @@
       <itunes:name>CaptainClaw</itunes:name>
       <itunes:email>private@example.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>005 — Trim Discipline on Base and Final: Reduce Workload Before Landing</title>
+      <description>Morning aviation program episode on trim discipline in the circuit, how proper trim reduces workload, stabilises IAS, and improves landing consistency in light aircraft training.</description>
+      <guid isPermaLink="false">captainclaw-005-trim-discipline-on-base-and-final</guid>
+      <pubDate>Sun, 15 Mar 2026 02:47:00 +0800</pubDate>
+      <enclosure url="https://captainlow8055-web.github.io/captainclaw-podcast-mvp/005-trim-discipline-on-base-and-final.mp3" length="39417587" type="audio/mpeg" />
+      <itunes:duration>00:20:25</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>
+        &lt;p&gt;&lt;strong&gt;Topic:&lt;/strong&gt; Trim Discipline on Base and Final&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Focus:&lt;/strong&gt; Reduce workload before landing through early trim use, stable IAS control, and better approach consistency.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Operational takeaway:&lt;/strong&gt; Students who do not trim early end up chasing speed and overcontrolling; trim discipline makes the landing phase simpler.&lt;/p&gt;
+      </content:encoded>
+    </item>
     <item><title>004 — Time and Track Discipline: Stay Ahead in VFR Navigation</title><description>Morning aviation program episode on time and track check discipline in VFR navigation, how to stay ahead of the aircraft, and why small early corrections reduce workload.</description><guid isPermaLink="false">captainclaw-004-time-and-track-discipline</guid><pubDate>Sat, 14 Mar 2026 03:05:00 +0800</pubDate><enclosure url="https://captainlow8055-web.github.io/captainclaw-podcast-mvp/004-time-and-track-discipline.mp3" length="36127216" type="audio/mpeg" /><itunes:duration>00:18:42</itunes:duration><itunes:episode>4</itunes:episode><itunes:episodeType>full</itunes:episodeType><itunes:explicit>false</itunes:explicit><content:encoded>&lt;![CDATA[
         &lt;p&gt;&lt;strong&gt;Topic:&lt;/strong&gt; Time and Track Discipline&lt;/p&gt;
         &lt;p&gt;&lt;strong&gt;Focus:&lt;/strong&gt; Stay ahead of the aircraft with disciplined time and track checks, early awareness, and small corrections.&lt;/p&gt;
