@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>CaptainClaw Aviation Morning Program</title>
@@ -24,6 +24,18 @@
       <itunes:email>private@example.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>006 — Flap Extension Discipline in the Circuit: Configure Early, Stay Stable</title>
+      <description>Morning aviation program episode on flap extension discipline in the circuit, why correct configuration timing reduces workload, supports speed stability, and prevents students from getting behind the aircraft on final.</description>
+      <guid isPermaLink="false">captainclaw-006-flap-extension-discipline-in-the-circuit</guid>
+      <pubDate>Mon, 16 Mar 2026 02:37:03 +0800</pubDate>
+      <enclosure url="https://captainlow8055-web.github.io/captainclaw-podcast-mvp/006-flap-extension-discipline-in-the-circuit.mp3" length="11242531" type="audio/mpeg" />
+      <itunes:duration>00:05:49</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Topic:&lt;/strong&gt; Flap Extension Discipline in the Circuit&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Focus:&lt;/strong&gt; Why disciplined flap timing and configuration changes reduce workload, support trim rhythm, protect IAS control, and make the final approach more stable in light-aircraft training.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Operational takeaway:&lt;/strong&gt; Late or careless flap selection creates pitch changes, rushed trimming, and unstable speed control; disciplined configuration keeps the student ahead of the aircraft.&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>005 — Trim Discipline on Base and Final: Reduce Workload Before Landing</title>
       <description>Morning aviation program episode on trim discipline in the circuit, how proper trim reduces workload, stabilises IAS, and improves landing consistency in light aircraft training.</description>
       <guid isPermaLink="false">captainclaw-005-trim-discipline-on-base-and-final</guid>
@@ -39,11 +51,23 @@
         &lt;p&gt;&lt;strong&gt;Operational takeaway:&lt;/strong&gt; Students who do not trim early end up chasing speed and overcontrolling; trim discipline makes the landing phase simpler.&lt;/p&gt;
       </content:encoded>
     </item>
-    <item><title>004 — Time and Track Discipline: Stay Ahead in VFR Navigation</title><description>Morning aviation program episode on time and track check discipline in VFR navigation, how to stay ahead of the aircraft, and why small early corrections reduce workload.</description><guid isPermaLink="false">captainclaw-004-time-and-track-discipline</guid><pubDate>Sat, 14 Mar 2026 03:05:00 +0800</pubDate><enclosure url="https://captainlow8055-web.github.io/captainclaw-podcast-mvp/004-time-and-track-discipline.mp3" length="36127216" type="audio/mpeg" /><itunes:duration>00:18:42</itunes:duration><itunes:episode>4</itunes:episode><itunes:episodeType>full</itunes:episodeType><itunes:explicit>false</itunes:explicit><content:encoded>&lt;![CDATA[
+    <item>
+      <title>004 — Time and Track Discipline: Stay Ahead in VFR Navigation</title>
+      <description>Morning aviation program episode on time and track check discipline in VFR navigation, how to stay ahead of the aircraft, and why small early corrections reduce workload.</description>
+      <guid isPermaLink="false">captainclaw-004-time-and-track-discipline</guid>
+      <pubDate>Sat, 14 Mar 2026 03:05:00 +0800</pubDate>
+      <enclosure url="https://captainlow8055-web.github.io/captainclaw-podcast-mvp/004-time-and-track-discipline.mp3" length="36127216" type="audio/mpeg" />
+      <itunes:duration>00:18:42</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>&lt;![CDATA[
         &lt;p&gt;&lt;strong&gt;Topic:&lt;/strong&gt; Time and Track Discipline&lt;/p&gt;
         &lt;p&gt;&lt;strong&gt;Focus:&lt;/strong&gt; Stay ahead of the aircraft with disciplined time and track checks, early awareness, and small corrections.&lt;/p&gt;
         &lt;p&gt;&lt;strong&gt;Operational takeaway:&lt;/strong&gt; Late correction creates workload; early awareness protects simplicity in VFR navigation.&lt;/p&gt;
-      ]]&gt;</content:encoded></item><item>
+      ]]&gt;</content:encoded>
+    </item>
+    <item>
       <title>003 — Go-Around Decision Discipline: Landing Is Optional</title>
       <description>Morning aviation program episode on go-around decision discipline, stabilised approach judgement, and why an early go-around is a professional safety decision rather than a failed landing.</description>
       <guid isPermaLink="false">captainclaw-003-go-around-decision-discipline</guid>
