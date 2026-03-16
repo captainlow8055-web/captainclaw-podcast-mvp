@@ -24,6 +24,18 @@
       <itunes:email>private@example.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>007 — Final Approach Speed Discipline: Control Trend Early, Stop Chasing Late</title>
+      <description>Morning aviation program episode on final approach speed discipline, focusing on early trend recognition, small corrections, and why late chasing of IAS creates unstable approaches in light-aircraft training.</description>
+      <guid isPermaLink="false">captainclaw-007-final-approach-speed-discipline</guid>
+      <pubDate>Tue, 17 Mar 2026 02:31:34 +0800</pubDate>
+      <enclosure url="https://captainlow8055-web.github.io/captainclaw-podcast-mvp/007-final-approach-speed-discipline.mp3" length="11605824" type="audio/mpeg" />
+      <itunes:duration>00:06:01</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Topic:&lt;/strong&gt; Final Approach Speed Discipline&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Focus:&lt;/strong&gt; Why light-aircraft students should manage speed trend early on final instead of reacting late with large pitch and power changes, and how disciplined trend control reduces float, sink surprises, and unstable landing outcomes.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Operational takeaway:&lt;/strong&gt; Do not wait until short final to fix speed. Small early corrections, stable trim rhythm, and disciplined cross-check prevent unstable approaches and rushed landings.&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>006 — Flap Extension Discipline in the Circuit: Configure Early, Stay Stable</title>
       <description>Morning aviation program episode on flap extension discipline in the circuit, why correct configuration timing reduces workload, supports speed stability, and prevents students from getting behind the aircraft on final.</description>
       <guid isPermaLink="false">captainclaw-006-flap-extension-discipline-in-the-circuit</guid>
