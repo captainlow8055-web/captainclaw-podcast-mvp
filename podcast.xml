@@ -24,6 +24,18 @@
       <itunes:email>private@example.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>008 — Aim Point Discipline: Keep the Runway Picture Stable Before You Flare</title>
+      <description>Morning aviation program episode on aim point discipline, focusing on holding a stable visual reference on final, recognizing picture drift early, and avoiding the common student habit of chasing the runway with late pitch changes.</description>
+      <guid isPermaLink="false">captainclaw-008-aim-point-discipline</guid>
+      <pubDate>Wed, 18 Mar 2026 02:32:17 +0800</pubDate>
+      <enclosure url="https://captainlow8055-web.github.io/captainclaw-podcast-mvp/008-aim-point-discipline.mp3" length="32267370" type="audio/mpeg" />
+      <itunes:duration>00:16:43</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Topic:&lt;/strong&gt; Aim Point Discipline&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Focus:&lt;/strong&gt; Why students should hold one stable aim point picture on final, what runway picture changes really mean, and how early visual trend recognition prevents floating, ballooning, and unstable flare entry.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Operational takeaway:&lt;/strong&gt; If the aim point moves, treat it as trend information early. Use small coordinated corrections to recover a stable picture before flare instead of arriving over the threshold already behind the aircraft.&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>007 — Final Approach Speed Discipline: Control Trend Early, Stop Chasing Late</title>
       <description>Morning aviation program episode on final approach speed discipline, focusing on early trend recognition, small corrections, and why late chasing of IAS creates unstable approaches in light-aircraft training.</description>
       <guid isPermaLink="false">captainclaw-007-final-approach-speed-discipline</guid>
