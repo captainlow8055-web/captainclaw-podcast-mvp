@@ -24,6 +24,18 @@
       <itunes:email>private@example.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>009 — Density Altitude and Hidden Margin Loss in Training Ops</title>
+      <description>Morning aviation program episode on density altitude, focusing on hidden performance loss in training operations, instructor-grade pre-takeoff judgement, and why seemingly normal weather can still reduce climb and safety margin.</description>
+      <guid isPermaLink="false">captainclaw-009-density-altitude-hidden-margin-loss</guid>
+      <pubDate>Thu, 19 Mar 2026 02:30:59 +0800</pubDate>
+      <enclosure url="https://captainlow8055-web.github.io/captainclaw-podcast-mvp/009-density-altitude-hidden-margin-loss.mp3" length="44326623" type="audio/mpeg" />
+      <itunes:duration>00:22:57</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Topic:&lt;/strong&gt; Density altitude and hidden margin loss in training ops&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Focus:&lt;/strong&gt; Why density altitude quietly erodes takeoff and climb margin, why normal-looking training days still punish aircraft capability, and how instructors should think in margin rather than textbook definition only.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Operational takeaway:&lt;/strong&gt; Density altitude is not just a theory term. It is a margin problem that changes climb capability, decision time, and error tolerance long before students feel that the day is abnormal.&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>008 — Aim Point Discipline: Keep the Runway Picture Stable Before You Flare</title>
       <description>Morning aviation program episode on aim point discipline, focusing on holding a stable visual reference on final, recognizing picture drift early, and avoiding the common student habit of chasing the runway with late pitch changes.</description>
       <guid isPermaLink="false">captainclaw-008-aim-point-discipline</guid>
