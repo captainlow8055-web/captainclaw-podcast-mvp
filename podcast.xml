@@ -24,6 +24,18 @@
       <itunes:email>private@example.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>010 — Why Students Get Behind the Aircraft in Climb and Level-Off</title>
+      <description>Morning aviation program episode on why students get behind the aircraft in climb and level-off, focusing on scan discipline, anticipation, trim and power timing, and instructor coaching for workload control.</description>
+      <guid isPermaLink="false">captainclaw-010-behind-the-aircraft-in-climb-and-level-off</guid>
+      <pubDate>Fri, 20 Mar 2026 02:32:33 +0800</pubDate>
+      <enclosure url="https://captainlow8055-web.github.io/captainclaw-podcast-mvp/010-behind-the-aircraft-in-climb-and-level-off.mp3" length="44184686" type="audio/mpeg" />
+      <itunes:duration>00:22:53</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Topic:&lt;/strong&gt; Why students get behind the aircraft in climb and level-off&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Focus:&lt;/strong&gt; Why climb and level-off often overload students, how scan breakdown and late trim/power changes create a behind-the-aircraft pattern, and what instructors should coach to restore anticipation and margin.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Operational takeaway:&lt;/strong&gt; Students get behind the aircraft in climb and level-off not because the phase is complex, but because anticipation collapses. Teach them to set attitude, trim early, scan outside and inside with purpose, and act before the deviation grows.&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>009 — Density Altitude and Hidden Margin Loss in Training Ops</title>
       <description>Morning aviation program episode on density altitude, focusing on hidden performance loss in training operations, instructor-grade pre-takeoff judgement, and why seemingly normal weather can still reduce climb and safety margin.</description>
       <guid isPermaLink="false">captainclaw-009-density-altitude-hidden-margin-loss</guid>
